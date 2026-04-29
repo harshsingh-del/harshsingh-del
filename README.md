@@ -38,6 +38,7 @@
   <img src="https://leetcode.com/medal/?showImg=0&id=10103427&isLevel=false" />
 </p>
 
+
 <p align="center">
   <a href="https://leetcode.com/u/Harsh092006/" target="_blank">
     <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-orange?style=for-the-badge&logo=leetcode" />
@@ -49,7 +50,7 @@
 ### 🔥 My Primary Language
 
 <p align="center">
-  <img src="https://leetcode.com/medal/?showImg=0&id=10103427&isLevel=false" />
+  <img src="https://img.shields.io/badge/My%20Top%20Language-Java-blue?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 ---
