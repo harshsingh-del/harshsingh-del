@@ -8,8 +8,8 @@
   🎓 3rd-year B.Tech student <br>
   💻 Focused on Software Development & Problem Solving <br>
   📚 Practicing DSA (LeetCode) & building real-world projects <br>
-  🚀 Interested in Full-Stack Development <br>
-  🛠️ Skills: Java, Python, HTML, CSS, Git <br>
+  🚀 Interested in Front-End Development <br>
+  🛠️ Skills: Java, Python, HTML, CSS, JavaScript, BootStrap ,Git <br>
 </p>
 
 <p align="center">
