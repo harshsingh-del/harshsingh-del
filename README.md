@@ -34,10 +34,8 @@
 ### 🏆 Achievements
 
 <p align="center">
-  🎯 Completed 100 Days of LeetCode Challenge <br><br>
-  <img src="https://leetcode.com/medal/?showImg=0&id=10103427&isLevel=false" />
+  <img src="https://img.shields.io/badge/LeetCode-100%20Days%20Badge-orange?style=for-the-badge&logo=leetcode" />
 </p>
-
 
 <p align="center">
   <a href="https://leetcode.com/u/Harsh092006/" target="_blank">
