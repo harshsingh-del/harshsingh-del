@@ -8,11 +8,11 @@
 
 🎓 B.Tech Computer Science Student at Galgotias University
 
-💻 Passionate about Software Development and Problem Solving
+💻 Skilled in Frontend Development using HTML, CSS, JavaScript & React.js
 
-📚 Solved 350+ Problems on LeetCode & 200+ on GeeksforGeeks
+📚 Solved 350+ Problems on LeetCode and 200+ Problems on GeeksforGeeks
 
-🚀 Interested in Frontend Development and Building Real-World Projects
+🚀 Passionate about Building Efficient Software Solutions
 
 ⚡ Consistent Learner | Future Software Engineer
 
@@ -29,7 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" width="45"/>
 </p>
 
 ---
@@ -44,27 +43,19 @@
 
 🎯 Certified in Java + DSA from Apna College
 
+<p align="center">
+  <a href="https://leetcode.com/u/Harsh092006/">
+    <img src="https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
-## 🚀 Featured Projects
+## 🔥 LeetCode Stats
 
-### 🌍 Tours & Travels Website
-
-🔹 Responsive travel website built using HTML, CSS, and JavaScript
-
-🔹 Dynamic tour listings, image sliders, and booking inquiry forms
-
-🔹 Smooth navigation and mobile-friendly design
-
-### 🎨 AI Image Generator
-
-🔹 AI-powered web application for generating images from text prompts
-
-🔹 Frontend built using HTML, CSS, and JavaScript
-
-🔹 Backend developed using Python and AI APIs
-
-🔹 Real-time image generation and preview functionality
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Harsh092006?theme=dark&font=Baloo&ext=contest"/>
+</p>
 
 ---
 
@@ -75,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshsingh-del&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=harshsingh-del&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -84,15 +75,37 @@
 
 ---
 
-## 🌱 Current Focus
+## 🚀 Featured Projects
 
-📚 Strengthening Data Structures & Algorithms
+### 🌍 Tours & Travels Website
 
-💻 Building Full-Stack and AI-Based Projects
+🔹 Built a responsive travel website using HTML, CSS, and JavaScript
 
-🚀 Preparing for Software Development Roles
+🔹 Implemented dynamic tour listings, image sliders, and booking inquiry forms
 
-⚡ Improving Problem Solving and System Design Skills
+🔹 Optimized for seamless user experience across all devices
+
+### 🎨 AI Image Generator
+
+🔹 Developed an AI-powered application that generates images from text prompts
+
+🔹 Built frontend using HTML, CSS, and JavaScript
+
+🔹 Integrated Python backend with AI image-generation APIs
+
+🔹 Enabled real-time image generation and preview functionality
+
+---
+
+## 🚀 Current Focus
+
+🌱 Strengthening Data Structures & Algorithms
+
+💻 Building Frontend and AI-Based Projects
+
+📚 Preparing for Software Development Roles
+
+🚀 Enhancing Problem Solving Skills
 
 ---
 
@@ -111,19 +124,17 @@
 ## 📫 Connect With Me
 
 <p align="center">
+  <a href="https://linkedin.com/in/harshsingh355">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="https://linkedin.com/in/harshsingh355">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="mailto:harshsinghrajput895@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="mailto:harshsinghrajput895@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/harshsingh-del">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/harshsingh-del">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
